@@ -1,2 +1,2 @@
 Ссылка на прочтения
-https://www.ncbi.nlm.nih.gov/sra/SRX17115789[accn]
+https://www.ncbi.nlm.nih.gov/sra/SRX16082129[accn]
